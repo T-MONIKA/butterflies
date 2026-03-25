@@ -17,6 +17,12 @@ backend/.env
 frontend/.env
 frontend/.env.*
 
+# Files larger than GitHub's 100MB limit
+frontend/media/media_E7BA925A_F17E_9024_41C7_F3484DA811BA_en.mp4
+frontend/media/media_E8A00A3D_F17E_905C_41DA_B0415DF55474_en.mp4
+frontend/public/virtual-video/media/media_E7BA925A_F17E_9024_41C7_F3484DA811BA_en.mp4
+frontend/public/virtual-video/media/media_E8A00A3D_F17E_905C_41DA_B0415DF55474_en.mp4
+
 # OS/editor files
 .DS_Store
 Thumbs.db
