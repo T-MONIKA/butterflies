@@ -16,6 +16,9 @@ build/
 backend/.env
 frontend/.env
 frontend/.env.*
+!.env.example
+!backend/.env.example
+!frontend/.env.example
 
 # Files larger than GitHub's 100MB limit
 frontend/media/media_E7BA925A_F17E_9024_41C7_F3484DA811BA_en.mp4
